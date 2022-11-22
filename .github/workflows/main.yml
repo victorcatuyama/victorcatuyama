@@ -16,7 +16,6 @@ jobs:
         with:
           github_user_name: victorcatuyama
           svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: blue
 
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
