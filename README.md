@@ -1,7 +1,7 @@
 ## Olá, eu sou o Victor! 👋😊
 
-- 🔭 Atualmente trabalho com Front-end
-- 🌱 Estou estudando ReactJS e TypeScript
+- 🔭 Currently working as a Front-end developer
+- 🌱 Studying ReactJS and TypeScript
 
 <div style="display: flex; flex-direction: row;">
   <a href="https://github.com/victorcatuyama">
