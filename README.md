@@ -1,4 +1,4 @@
-## Olá, eu sou o Victor! 👋😊
+## Hi, I'm Victor! 👋😊
 
 - 🔭 Currently working as a Front-end developer
 - 🌱 Studying ReactJS and TypeScript
